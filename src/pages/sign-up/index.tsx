@@ -84,14 +84,14 @@ const SignUpScreen = () => {
         <p className="flex gap-1 text-sm xs:text-xs text-center mt-8">
           <BsLink45Deg className="mt-1 xs:mt-[2px]" />
           <span className=" text-gray-400">
-            We'll email you a magic code to log in password-free
+            We&apos;ll email you a magic code to log in password-free
           </span>
         </p>
         <div className="mt-5" />
         <p className="text-sm xs:text-xs text-center text-gray-400 mt-auto">
           By continuing you acknowledge and accept
           <br />
-          Manifest's{' '}
+          Manifest&apos;s{' '}
           <Link href="#" className="underline">
             Terms & Conditions
           </Link>{' '}
